@@ -1,3 +1,4 @@
 # Fortuna interview
 
-some descriptions
+1_ install git for windows: 
+https://www.atlassian.com/git/tutorials/install-git#windows
